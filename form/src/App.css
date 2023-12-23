@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('./img/art-de-la-To-Do-List.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    font-family: Arial, sans-serif; 
+    color: #ffffff; 
+}
+
+
+label {
+    color: white;
+}
